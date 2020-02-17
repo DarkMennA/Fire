@@ -23,7 +23,7 @@ print
 print "Author   : FIREWOLF"
 print "TEAM     : DSFS"
 print "Thanks   : Tuan C4RT00NW4R"
-print "Tingkat  : Newbie Berkarya"
+print "Tingkat  : DarkMennA"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
